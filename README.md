@@ -10,7 +10,7 @@ Elizabeth Woo - August 11th, 2024
 ![image](https://github.com/user-attachments/assets/8f5e5961-2494-4100-a0e8-74212b416136)
 
 
-### Output (4.99V)
+### Output (4.989V)
 ![image](https://github.com/user-attachments/assets/666fc0ff-6ef8-4a8d-b128-3b6c6c2c10aa)
 
 
