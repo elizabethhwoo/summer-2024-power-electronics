@@ -2,7 +2,17 @@
 Elizabeth Woo - August 11th, 2024
 
 ## Final Project: Power Electronics Design - 11.1V to 5V Buck Converter 
-![image](https://github.com/user-attachments/assets/cf184f6d-2a3a-4d0e-b49e-7d1021d31566)
+![image](https://github.com/user-attachments/assets/5af10e45-1d1e-451c-b06a-4606429a1108)
+
+
+## Proof of Converter:
+<ins>Input (11.1V)</ins>
+![image](https://github.com/user-attachments/assets/8f5e5961-2494-4100-a0e8-74212b416136)
+
+
+<ins>Output (4.99V)</ins>
+![image](https://github.com/user-attachments/assets/666fc0ff-6ef8-4a8d-b128-3b6c6c2c10aa)
+
 
 
 ## Objective 
