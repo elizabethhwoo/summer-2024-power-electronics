@@ -11,6 +11,22 @@ Project requirements:
 1. The project must be completed using MATLAB/Simulink/Simscape Power Systems. Analytical hand
 calculation may be used for analyses and for presenting the results in the project report.
 
+<ins>Design of a device or a system</ins>
+Design a device or a system that is based on one of the device/systems covered in the course. They include
+DC-DC converters, DC power supplies, rectifier, inverter, and HVDC transmission system. The main
+requirements are as follows:
+1) Parameters: The device/system must be appropriate/realistic where all pertinent parameters
+must be specified. It is preferable that parameters of a real-world device/system are used.
+References (e.g. publications, online sources, manufacturer data etc.) must be provided if you
+use data from the sources. The device/system pertinent parameters shall be provided in a table
+similar to the Table 1 below.
+2) A circuit diagram for the designed device/system must be drawn and included in the report. MS
+Visio is a very powerful software for drawing the circuit diagram and other diagrams.
+3) Rationale must be provided to justify the design (e.g. the need for the device/system, its benefit,
+its applications, reason/rule of thumb for parameter selection etc.)
+4) Output calculation: Using the system design parameters, calculate its pertinent outputs to
+confirm that desired outputs are obtained. Include all the calculations and results in the report.
+
 ---
 
 ## Power Electronics Design - 11.1V to 5V Buck Converter 
