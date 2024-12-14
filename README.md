@@ -6,12 +6,12 @@ Elizabeth Woo - August 11th, 2024
 
 
 ## Proof of Converter:
-<ins>Input (11.1V)</ins>
-- ![image](https://github.com/user-attachments/assets/8f5e5961-2494-4100-a0e8-74212b416136)
+### Input (11.1V)
+![image](https://github.com/user-attachments/assets/8f5e5961-2494-4100-a0e8-74212b416136)
 
 
-<ins>Output (4.99V)</ins>
-- ![image](https://github.com/user-attachments/assets/666fc0ff-6ef8-4a8d-b128-3b6c6c2c10aa)
+### Output (4.99V)
+![image](https://github.com/user-attachments/assets/666fc0ff-6ef8-4a8d-b128-3b6c6c2c10aa)
 
 
 
