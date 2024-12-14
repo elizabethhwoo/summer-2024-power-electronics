@@ -5,7 +5,7 @@ Elizabeth Woo - August 11th, 2024
 ![image](https://github.com/user-attachments/assets/cf184f6d-2a3a-4d0e-b49e-7d1021d31566)
 
 
-### Objective 
+## Objective 
 To apply the course theory to design, implement and analyze a relevant device or a system
 
 ## Project Requirements 
@@ -13,7 +13,7 @@ To apply the course theory to design, implement and analyze a relevant device or
 calculation may be used for analyses and for presenting the results in the project report.
 
 <ins>1) Design of a device or a system</ins>
-- Design a device or a system that is based on one of the device/systems covered in the course. They include
+* Design a device or a system that is based on one of the device/systems covered in the course. They include
 DC-DC converters, DC power supplies, rectifier, inverter, and HVDC transmission system. The main
 requirements are as follows:
 - Parameters: The device/system must be appropriate/realistic where all pertinent parameters
