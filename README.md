@@ -26,3 +26,22 @@ similar to the Table 1 below.
 its applications, reason/rule of thumb for parameter selection etc.)
   - Output calculation: Using the system design parameters, calculate its pertinent outputs to
 confirm that desired outputs are obtained. Include all the calculations and results in the report.
+
+<ins>2. Simulation and analysis of designed device/system</ins>
+- Perform the following tasks:
+  -1. Build your designed device/system using MATLAB Simulink Simscape. Simulate the device/system
+and record the system outputs.
+  -2. Compare the simulated outputs with the calculated outputs in Part 1. Provide your observation and
+analysis (e.g. whether your Simulink-based system performs as expected, any limitation or necessary
+improvement etc.)
+  -3. Include all outcomes from Step 1 and Step 2 in the report.
+  -4. Save and submit the project Simulink file.
+- Analysis and reduction of harmonics:
+  - A power electronic system typically requires filter(s) to reduce harmonics. In case a filter is designed, the
+following requirements apply:
+  - 1) Analysis of harmonics: Use “FFT analysis” in “Powergui/Tools” to measure THD and harmonic
+spectrum.
+  - 2) Reduction of harmonics: Based on the FFT analysis report, design a filter to reduce the unwanted
+harmonics. The filter design must include its circuit diagram, transfer function, calculation and
+obtained parameters (e.g. capacitor and inductor values if using an LC-filter). No ready-made filter
+by Simulink is accepted
