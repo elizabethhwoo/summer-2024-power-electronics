@@ -1,5 +1,5 @@
 ## ECE 4869 - Power Electronics
-Elizabeth Woo - November 18th, 2024
+Elizabeth Woo - August 11th, 2024
 
 ## Final Project
 
