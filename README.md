@@ -9,10 +9,10 @@ Elizabeth Woo - August 11th, 2024
 To apply the course theory to design, implement and analyze a relevant device or a system
 
 ## Project Requirements 
-1. The project must be completed using MATLAB/Simulink/Simscape Power Systems. Analytical hand
+The project must be completed using MATLAB/Simulink/Simscape Power Systems. Analytical hand
 calculation may be used for analyses and for presenting the results in the project report.
 
-<ins>1) Design of a device or a system</ins>
+<ins>1. Design of a device or a system</ins>
 - Design a device or a system that is based on one of the device/systems covered in the course. They include
 DC-DC converters, DC power supplies, rectifier, inverter, and HVDC transmission system. The main
 requirements are as follows:
