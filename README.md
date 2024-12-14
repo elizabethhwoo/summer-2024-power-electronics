@@ -39,9 +39,9 @@ improvement etc.)
 - Analysis and reduction of harmonics:
   - A power electronic system typically requires filter(s) to reduce harmonics. In case a filter is designed, the
 following requirements apply:
-    - 1) Analysis of harmonics: Use “FFT analysis” in “Powergui/Tools” to measure THD and harmonic
+    - Analysis of harmonics: Use “FFT analysis” in “Powergui/Tools” to measure THD and harmonic
 spectrum.
-    - 2) Reduction of harmonics: Based on the FFT analysis report, design a filter to reduce the unwanted
+    - Reduction of harmonics: Based on the FFT analysis report, design a filter to reduce the unwanted
 harmonics. The filter design must include its circuit diagram, transfer function, calculation and
 obtained parameters (e.g. capacitor and inductor values if using an LC-filter). No ready-made filter
 by Simulink is accepted
