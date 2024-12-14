@@ -29,13 +29,13 @@ confirm that desired outputs are obtained. Include all the calculations and resu
 
 <ins>2. Simulation and analysis of designed device/system</ins>
 - Perform the following tasks:
-  -1. Build your designed device/system using MATLAB Simulink Simscape. Simulate the device/system
+  - 1. Build your designed device/system using MATLAB Simulink Simscape. Simulate the device/system
 and record the system outputs.
-  -2. Compare the simulated outputs with the calculated outputs in Part 1. Provide your observation and
+  - 2. Compare the simulated outputs with the calculated outputs in Part 1. Provide your observation and
 analysis (e.g. whether your Simulink-based system performs as expected, any limitation or necessary
 improvement etc.)
-  -3. Include all outcomes from Step 1 and Step 2 in the report.
-  -4. Save and submit the project Simulink file.
+  - 3. Include all outcomes from Step 1 and Step 2 in the report.
+  - 4. Save and submit the project Simulink file.
 - Analysis and reduction of harmonics:
   - A power electronic system typically requires filter(s) to reduce harmonics. In case a filter is designed, the
 following requirements apply:
